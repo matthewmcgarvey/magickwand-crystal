@@ -5,6 +5,6 @@ authors:
   - Mattia Roccoberton <mat@blocknot.es>
   - Gunter Solf <gunter.solf@gmail.com>
 
-crystal: 0.31.0
+crystal: "< 2.0.0"
 
 license: MIT
